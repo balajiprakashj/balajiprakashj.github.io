@@ -31,7 +31,7 @@ Prime locality and posh localities were quoted 10,000 to 20,000 psf which is sur
 
 This gives the advantage to play the realty game in Salem itself which is a known location instead of unknown location like bangalore.
 
-Bangalore gives the advantage of rental yields. So, future investments must be focused here.
+Bangalore gives the advantage of rental yields. So, future investments must be focused here in future.
 
 ---
 
@@ -58,13 +58,6 @@ Salem Master Plan – *Figure 59: A Capacity and Congestion Analysis*
 
 ---
 
-## Further Analysis
-
-* Went through the **proposed plans** in the document thoroughly.
-* Used **ChatGPT summaries** to ensure no major points were missed.
-
----
-
 ## Identified High Growth Potential Areas
 
 Based on the study:
@@ -85,14 +78,13 @@ Based on the study:
 
 ## References
 
-* Ring Road Proposals:
+* Project Proposals:
   [https://www.salemclpa.com/projectproposals](https://www.salemclpa.com/projectproposals)
 
 * Salem Master Plan 2041 (Full Document):
   [https://www.salemclpa.com/_files/ugd/664561_f48451a81fc7429d87ce56928ac78890.pdf](https://www.salemclpa.com/_files/ugd/664561_f48451a81fc7429d87ce56928ac78890.pdf)
 
-* Map Page Number (Outer Ring Road):
-  Page **374**
+* Outer Ring Road Map: Page **374**
 
 * Land Use Map (Outer Ring Road):
   [https://www.salemclpa.com/_files/ugd/664561_77b6d2f800bf4b10a2c0f42c59bae415.pdf](https://www.salemclpa.com/_files/ugd/664561_77b6d2f800bf4b10a2c0f42c59bae415.pdf)
@@ -166,7 +158,7 @@ Based on the study:
 * Size: 32 cents
 * Features: 1km from mettupatti toll
 * Disadvantages: nil apart from slow growth noticed in attur direction
-* Price: ₹2L per cent / 460psf
+* Price: ₹2L per cent / ₹460 psf
 * Location: Near mettupatti toll
 * Map: [https://maps.app.goo.gl/Z81jvsBpxQXXQukA8?g_st=aw](https://maps.app.goo.gl/Z81jvsBpxQXXQukA8?g_st=aw)
 * Verdict: SHORTLIST - LEAN NO
@@ -178,7 +170,7 @@ Based on the study:
 * Size:1500
 * Features: nil
 * Disadvantages: overquoted by broker
-* Price: ₹3,500–4,000 psf 
+* Price: ₹3500–4000 psf 
 * Location: nil
 * Map: [https://maps.app.goo.gl/VEr197Xfd27ibPPg6?g_st=aw](https://maps.app.goo.gl/VEr197Xfd27ibPPg6?g_st=aw)
 * Verdict: NO
@@ -187,10 +179,10 @@ Based on the study:
 
 ### Land 8
 
-* Size: ~4,000 sqft
+* Size: ~4000 sqft
 * Features: close to steel plant road
 * Disadvantages: 15ft road, but close to main road
-* Price: ₹2,000 psf
+* Price: ₹2000 psf
 * Location: 1.3km from coco villa
 * Map: [https://maps.app.goo.gl/9T6RE3MkqB13iWYG6](https://maps.app.goo.gl/9T6RE3MkqB13iWYG6)
 * Verdict: SHORTLIST - LEAN YES
@@ -199,12 +191,12 @@ Based on the study:
 
 ### Land 9
 
-* Size: 73 × 73 (13.5 cents) | 5700sqft
+* Size: 13.5 cents i.e. 5700sqft
 * Features: big land parcel
 * Disadvantages: 20ft opening, so cannot split and sell.
-* Price: ₹1,000 psf
+* Price: ₹1000 psf
 * Location: near Sivaa garden, 5km from coco villa
-* Map: [https://maps.app.goo.gl/HiQQMXfUxGQjk6Pw6?g_st=aw](https://maps.app.goo.gl/HiQQMXfUxGQjk6Pw6?g_st=aw)
+* Map: [https://maps.app.goo.gl/hiANupVToXV6UAgs9](https://maps.app.goo.gl/hiANupVToXV6UAgs9)
 * Verdict: SHORTLIST - LEAN YES
 
 ---
@@ -214,7 +206,7 @@ Based on the study:
 * Size: All
 * Features: Promoter layout
 * Disadvantages: far away from city and overpriced, minimal potential
-* Price: ₹2,800–3,000 psf
+* Price: ₹2800–3000 psf
 * Location: Pagalpatti
 * Map: [https://maps.app.goo.gl/S5NGi1C5pSndgqM39?g_st=aw](https://maps.app.goo.gl/S5NGi1C5pSndgqM39?g_st=aw)
 * Verdict: NO
@@ -223,7 +215,7 @@ Based on the study:
 
 ### Land 11
 
-* Size: ~8,000 sqft
+* Size: ~8000 sqft
 * Features: ~20ft from main road
 * Disadvantages: slightly overpriced, minimal potential
 * Price: ₹2800 psf
@@ -235,7 +227,7 @@ Based on the study:
 
 ### Land 12
 
-* Size: 30 × (variable) | all
+* Size: all sizes
 * Features: In 30ft Main road and big road inside the plots
 * Disadvantages: slightly overpriced for the location potential
 * Price: ₹2800 psf
@@ -269,7 +261,7 @@ Based on the study:
 
 ---
 
-### Land 14 - O2 Signature – Near Steel Plant
+### Land 15 - O2 Signature – Near Steel Plant
 
 * Size: -
 * Features: -
